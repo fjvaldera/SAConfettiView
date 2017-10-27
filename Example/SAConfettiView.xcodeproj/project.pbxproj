@@ -535,6 +535,7 @@
 				PROVISIONING_PROFILE = "e5bd78bf-247a-4b72-bdfa-dcfd23629b2b";
 				PROVISIONING_PROFILE_SPECIFIER = "General Development";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -554,6 +555,7 @@
 				PROVISIONING_PROFILE = "e5bd78bf-247a-4b72-bdfa-dcfd23629b2b";
 				PROVISIONING_PROFILE_SPECIFIER = "General Development";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
