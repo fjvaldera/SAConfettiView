@@ -53,6 +53,7 @@ public class SAConfettiView: UIView {
     }
 
     public func startConfetti() {
+        emitter?.removeFromSuperlayer()
         emitter = CAEmitterLayer()
 
         recalculatePositionAndSize()
