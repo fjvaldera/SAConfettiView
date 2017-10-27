@@ -40,6 +40,8 @@ class ViewController: UIViewController {
     
     // For custom image
     // confettiView.type = .Image(UIImage(named: "diamond")!)
+
+    confettiView.autoresizingMask = [.flexibleWidth, .flexibleHeight]
     
     // Add subview
     view.addSubview(confettiView)
